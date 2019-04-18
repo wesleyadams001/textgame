@@ -87,7 +87,7 @@ void BuildRooms(unsigned int rooms[][5]);
 #define CAUTION							0x08000000
 
 
-
+//Main method
 int main()
 {
 	string mystring;
